@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my page
+* 🌐 I'm known as Tsadriu on any online platform.
+* 🖥️ I code silly stuff, but it can also be helpfull!
+* ↪️ Started coding with Java and moved to C#.
+* 🎮 I love games.
+* 🌱 Just a newbie apprentice.
 
 <!--
 **Tsadriu/Tsadriu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
