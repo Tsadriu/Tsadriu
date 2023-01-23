@@ -7,7 +7,7 @@
 
 <!--[![Patreon](https://ko-fi.com/img/githubbutton_sm.svg)]([https://ko-fi.com/I3I5GFKAS](https://www.patreon.com/Nestronomus))-->
 
-[![Tsadriu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsadriu)](https://github.com/Tsadriu)
+[![Tsadriu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tsadriu)](https://github.com/Tsadriu)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsadriu&layout=compact)](https://github.com/Tsadriu)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tsadriu&layout=compact)](https://github.com/Tsadriu)
   
