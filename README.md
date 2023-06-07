@@ -4,5 +4,9 @@
 * ⌨️ I develop some personal stuff but it also might help you out
 * 🌍 Check out my website: https://tsadriu.dev
 
+<div align="center">
+  
 [![Tsadriu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tsadriu)](https://github.com/Tsadriu)<br/>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tsadriu&layout=compact)](https://github.com/Tsadriu)
+  
+</div>
