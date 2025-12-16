@@ -1,7 +1,19 @@
 # Hello there!
-Welcome to my GitHub profile! I go by **Tsadriu** across various 🌐 online platforms.
-## What I do
+Welcome to my GitHub profile!
+## About me
 * 👨‍💻 Develop applications, tools, or games using C# and Unity
+
+# Skills
+* C#
+* Entity Framework Core (EF)
+* MSSQL
+* MongoDB
+* ASP.NET Core (API)
+* Windows forms
+* Java
+
+#Programming Languages
+* C#
 
 ## What you'll find here
 * 🛠️ A collection of repositories of personal projects
