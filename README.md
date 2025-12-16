@@ -40,7 +40,7 @@ Happy coding ✨
 
 <div align="center">
   
-[![Tsadriu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tsadriu)](https://github.com/Tsadriu)<br/>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tsadriu&layout=compact)](https://github.com/Tsadriu)<br/>
+[![Tsadriu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tsadriu)](https://github.com/F32Lab)<br/>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tsadriu&layout=compact)](https://github.com/F32Lab)<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tsadriu&theme=dark&hide_border=false)<br/>
 </div>
